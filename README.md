@@ -14,6 +14,9 @@
 💼 I have been working as a frontend developer since 2015 always seeking to be up to date with the latest concepts and techniques regarding to Javascript and ES because it's my main stack
 
 
+By: Felipe Kawassaki :wave: [Get in touch!](https://www.linkedin.com/in/felipe-kawassaki-335697118/)
+
+<!---
 ## :rocket:
 
 ## 🔖
@@ -21,10 +24,6 @@
 ## 🔧 
  
 ## Get in touch!
-
-By: Felipe Kawassaki :wave: [Get in touch!](https://www.linkedin.com/in/felipe-kawassaki-335697118/)
-
-<!---
 Kawassaki/Kawassaki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 - 👋 Hi, I’m Felipe Kawassaki
