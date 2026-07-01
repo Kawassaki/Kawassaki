@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <kbd>
-    <img alt="JamesDelivery" title="#JamesDelivery" src="https://avatars.githubusercontent.com/u/19914462?v=4" width="250px" style="border-radius:50%" class="photos" />
+    <img src="https://avatars.githubusercontent.com/u/19914462?v=4" width="250px" style="border-radius:50%" class="photos" />
   </kbd>
 </h1>
 
