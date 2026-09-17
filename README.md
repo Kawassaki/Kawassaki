@@ -9,7 +9,7 @@
 
 👋 Hi! My name is Felipe Kawassaki,
 
-🏢 I'm Frontend Engineer at OLX Group currently;
+🏢 I'm Senior Frontend Engineer at OLX Group currently;
 
 💼 I have been working as a frontend developer since 2015 always seeking to be up to date with the latest concepts and techniques regarding to Javascript and ES because it's my main stack
 
